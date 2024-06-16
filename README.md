@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4082-Rakshita
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning web development and working on  coding skills
-- 💞️ I’m looking to collaborate on fronrtend projects
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me rakshitasharmajee@gmail.com
 
 <!---
