@@ -1,10 +1,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<br/>
-- 👋 Hi, I’m @4082-Rakshita
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning web development and working on  coding skills
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me rakshitasharmajee@gmail.com
+<ul>
+ <li>👋 Hi, I’m @4082-Rakshita</li>
+<li>👀 I’m interested in frontend development</li>
+<li>🌱 I’m currently learning web development and working on  coding skills</li>
+<li>💞️ I’m looking to collaborate on frontend projects</li>
+<li>📫 How to reach me rakshitasharmajee@gmail.com</li>
+  </ul>
 <br/>
 <!---
 4082-Rakshita/4082-Rakshita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
